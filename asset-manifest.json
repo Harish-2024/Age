@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Age/static/css/main.2b7608f9.css",
+    "main.js": "/Age/static/js/main.65ede3a0.js",
+    "index.html": "/Age/index.html",
+    "main.2b7608f9.css.map": "/Age/static/css/main.2b7608f9.css.map",
+    "main.65ede3a0.js.map": "/Age/static/js/main.65ede3a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7608f9.css",
+    "static/js/main.65ede3a0.js"
+  ]
+}
